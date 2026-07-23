@@ -8,6 +8,8 @@
 >
 > Status: Stable
 
+[English Version](README.md)
+
 ---
 
 # 为什么需要这份宪法？
