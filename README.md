@@ -12,7 +12,7 @@
 
 **Lean AI Constitution (LAIC)** is an open-source design philosophy for building sustainable AI applications.
 
-Known in Chinese as **《AI减负宪法》**, LAIC is built on one fundamental belief:
+Known in Chinese as **《AI减负准则》**, LAIC is built on one fundamental belief:
 
 > **The purpose of an AI application is not to create another system for people to operate, but to continuously reduce human work.**
 
