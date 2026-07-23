@@ -8,7 +8,7 @@
 >
 > Status: Stable
 
-[English Version](README.md)
+[English](README.md) | [Español](README_es.md) | [Français](README_fr.md) | [日本語](README_ja.md)
 
 ---
 
