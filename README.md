@@ -4,7 +4,7 @@
 >
 > *A Constitution for AI Applications That Continuously Reduce Human Burden.*
 
-[中文版](README_cn.md)
+[中文版](README_cn.md) | [Español](README_es.md) | [Français](README_fr.md) | [日本語](README_ja.md)
 
 ---
 
